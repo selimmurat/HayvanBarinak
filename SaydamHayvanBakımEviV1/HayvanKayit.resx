@@ -1,0 +1,640 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="comboBox1.Items" xml:space="preserve">
+    <value>Dişi</value>
+  </data>
+  <data name="comboBox1.Items1" xml:space="preserve">
+    <value>Erkek</value>
+  </data>
+  <assembly alias="System.Drawing.Primitives" name="System.Drawing.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>645, 335</value>
+  </data>
+  <data name="comboBox1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>296, 23</value>
+  </data>
+  <assembly alias="System.Private.CoreLib" name="System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e" />
+  <data name="comboBox1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.Name" xml:space="preserve">
+    <value>comboBox1</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lblCinsiyet.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Drawing.Common" name="System.Drawing.Common, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
+  <data name="lblCinsiyet.Font" type="System.Drawing.Font, System.Drawing.Common">
+    <value>Segoe UI Semibold, 12pt, style=Bold</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="lblCinsiyet.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblCinsiyet.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>537, 338</value>
+  </data>
+  <data name="lblCinsiyet.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>104, 21</value>
+  </data>
+  <data name="lblCinsiyet.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>18</value>
+  </data>
+  <data name="lblCinsiyet.Text" xml:space="preserve">
+    <value>( * ) Cinsiyet :</value>
+  </data>
+  <data name="&gt;&gt;lblCinsiyet.Name" xml:space="preserve">
+    <value>lblCinsiyet</value>
+  </data>
+  <data name="&gt;&gt;lblCinsiyet.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblCinsiyet.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;lblCinsiyet.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing.Common">
+    <value>Segoe UI, 27.75pt</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>510, 75</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>484, 50</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>17</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>YENİ HAYVAN KAYIT EKRANI</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pictureBox1.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>644, 579</value>
+  </data>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>297, 199</value>
+  </data>
+  <data name="pictureBox1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblFoto.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="lblFoto.Font" type="System.Drawing.Font, System.Drawing.Common">
+    <value>Segoe UI Semibold, 12pt, style=Bold</value>
+  </data>
+  <data name="lblFoto.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblFoto.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>533, 579</value>
+  </data>
+  <data name="lblFoto.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>82, 21</value>
+  </data>
+  <data name="lblFoto.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>15</value>
+  </data>
+  <data name="lblFoto.Text" xml:space="preserve">
+    <value>Fotoğraf :</value>
+  </data>
+  <data name="&gt;&gt;lblFoto.Name" xml:space="preserve">
+    <value>lblFoto</value>
+  </data>
+  <data name="&gt;&gt;lblFoto.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblFoto.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;lblFoto.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnTemizle.Font" type="System.Drawing.Font, System.Drawing.Common">
+    <value>Segoe UI, 14.25pt, style=Bold</value>
+  </data>
+  <data name="btnTemizle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnTemizle.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>533, 887</value>
+  </data>
+  <data name="btnTemizle.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>199, 44</value>
+  </data>
+  <data name="btnTemizle.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>14</value>
+  </data>
+  <data name="btnTemizle.Text" xml:space="preserve">
+    <value>Temizle</value>
+  </data>
+  <data name="&gt;&gt;btnTemizle.Name" xml:space="preserve">
+    <value>btnTemizle</value>
+  </data>
+  <data name="&gt;&gt;btnTemizle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnTemizle.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;btnTemizle.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnKaydet.Font" type="System.Drawing.Font, System.Drawing.Common">
+    <value>Segoe UI, 14.25pt, style=Bold</value>
+  </data>
+  <data name="btnKaydet.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>768, 887</value>
+  </data>
+  <data name="btnKaydet.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>199, 44</value>
+  </data>
+  <data name="btnKaydet.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>13</value>
+  </data>
+  <data name="btnKaydet.Text" xml:space="preserve">
+    <value>Kaydet</value>
+  </data>
+  <data name="&gt;&gt;btnKaydet.Name" xml:space="preserve">
+    <value>btnKaydet</value>
+  </data>
+  <data name="&gt;&gt;btnKaydet.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnKaydet.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;btnKaydet.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="txtGelisNedeni.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>645, 806</value>
+  </data>
+  <data name="txtGelisNedeni.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>296, 23</value>
+  </data>
+  <data name="txtGelisNedeni.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;txtGelisNedeni.Name" xml:space="preserve">
+    <value>txtGelisNedeni</value>
+  </data>
+  <data name="&gt;&gt;txtGelisNedeni.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtGelisNedeni.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;txtGelisNedeni.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="txtEkAciklama.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>644, 436</value>
+  </data>
+  <data name="txtEkAciklama.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>296, 96</value>
+  </data>
+  <data name="txtEkAciklama.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>11</value>
+  </data>
+  <data name="txtEkAciklama.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;txtEkAciklama.Name" xml:space="preserve">
+    <value>txtEkAciklama</value>
+  </data>
+  <data name="&gt;&gt;txtEkAciklama.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtEkAciklama.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;txtEkAciklama.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="cmbRenk.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>643, 290</value>
+  </data>
+  <data name="cmbRenk.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>296, 23</value>
+  </data>
+  <data name="cmbRenk.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;cmbRenk.Name" xml:space="preserve">
+    <value>cmbRenk</value>
+  </data>
+  <data name="&gt;&gt;cmbRenk.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cmbRenk.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;cmbRenk.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="cmbTuru.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>644, 245</value>
+  </data>
+  <data name="cmbTuru.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>295, 23</value>
+  </data>
+  <data name="cmbTuru.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;cmbTuru.Name" xml:space="preserve">
+    <value>cmbTuru</value>
+  </data>
+  <data name="&gt;&gt;cmbTuru.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cmbTuru.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;cmbTuru.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="dtDogumTarihi.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>645, 387</value>
+  </data>
+  <data name="dtDogumTarihi.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>295, 23</value>
+  </data>
+  <data name="dtDogumTarihi.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;dtDogumTarihi.Name" xml:space="preserve">
+    <value>dtDogumTarihi</value>
+  </data>
+  <data name="&gt;&gt;dtDogumTarihi.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dtDogumTarihi.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;dtDogumTarihi.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="txtKupeNo.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>643, 191</value>
+  </data>
+  <data name="txtKupeNo.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>296, 23</value>
+  </data>
+  <data name="txtKupeNo.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;txtKupeNo.Name" xml:space="preserve">
+    <value>txtKupeNo</value>
+  </data>
+  <data name="&gt;&gt;txtKupeNo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtKupeNo.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;txtKupeNo.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="lblGelisNedeni.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="lblGelisNedeni.Font" type="System.Drawing.Font, System.Drawing.Common">
+    <value>Segoe UI Semibold, 12pt, style=Bold</value>
+  </data>
+  <data name="lblGelisNedeni.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblGelisNedeni.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>529, 808</value>
+  </data>
+  <data name="lblGelisNedeni.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>110, 21</value>
+  </data>
+  <data name="lblGelisNedeni.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>6</value>
+  </data>
+  <data name="lblGelisNedeni.Text" xml:space="preserve">
+    <value>Geliş Nedeni :</value>
+  </data>
+  <data name="&gt;&gt;lblGelisNedeni.Name" xml:space="preserve">
+    <value>lblGelisNedeni</value>
+  </data>
+  <data name="&gt;&gt;lblGelisNedeni.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblGelisNedeni.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;lblGelisNedeni.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="lblTurId.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="lblTurId.Font" type="System.Drawing.Font, System.Drawing.Common">
+    <value>Segoe UI Semibold, 12pt, style=Bold</value>
+  </data>
+  <data name="lblTurId.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblTurId.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>562, 247</value>
+  </data>
+  <data name="lblTurId.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>79, 21</value>
+  </data>
+  <data name="lblTurId.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>5</value>
+  </data>
+  <data name="lblTurId.Text" xml:space="preserve">
+    <value>( * ) Türü :</value>
+  </data>
+  <data name="&gt;&gt;lblTurId.Name" xml:space="preserve">
+    <value>lblTurId</value>
+  </data>
+  <data name="&gt;&gt;lblTurId.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblTurId.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;lblTurId.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="lblRenkId.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="lblRenkId.Font" type="System.Drawing.Font, System.Drawing.Common">
+    <value>Segoe UI Semibold, 12pt, style=Bold</value>
+  </data>
+  <data name="lblRenkId.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblRenkId.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>558, 290</value>
+  </data>
+  <data name="lblRenkId.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>83, 21</value>
+  </data>
+  <data name="lblRenkId.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>3</value>
+  </data>
+  <data name="lblRenkId.Text" xml:space="preserve">
+    <value>( * ) Renk :</value>
+  </data>
+  <data name="&gt;&gt;lblRenkId.Name" xml:space="preserve">
+    <value>lblRenkId</value>
+  </data>
+  <data name="&gt;&gt;lblRenkId.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblRenkId.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;lblRenkId.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="lblEkAciklama.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="lblEkAciklama.Font" type="System.Drawing.Font, System.Drawing.Common">
+    <value>Segoe UI Semibold, 12pt, style=Bold</value>
+  </data>
+  <data name="lblEkAciklama.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblEkAciklama.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>538, 434</value>
+  </data>
+  <data name="lblEkAciklama.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>103, 21</value>
+  </data>
+  <data name="lblEkAciklama.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>2</value>
+  </data>
+  <data name="lblEkAciklama.Text" xml:space="preserve">
+    <value>Ek Açıklama :</value>
+  </data>
+  <data name="&gt;&gt;lblEkAciklama.Name" xml:space="preserve">
+    <value>lblEkAciklama</value>
+  </data>
+  <data name="&gt;&gt;lblEkAciklama.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblEkAciklama.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;lblEkAciklama.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="lblDogumTarihi.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="lblDogumTarihi.Font" type="System.Drawing.Font, System.Drawing.Common">
+    <value>Segoe UI Semibold, 12pt, style=Bold</value>
+  </data>
+  <data name="lblDogumTarihi.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDogumTarihi.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>507, 386</value>
+  </data>
+  <data name="lblDogumTarihi.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>139, 21</value>
+  </data>
+  <data name="lblDogumTarihi.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>1</value>
+  </data>
+  <data name="lblDogumTarihi.Text" xml:space="preserve">
+    <value>( * )Doğum Tarihi :</value>
+  </data>
+  <data name="&gt;&gt;lblDogumTarihi.Name" xml:space="preserve">
+    <value>lblDogumTarihi</value>
+  </data>
+  <data name="&gt;&gt;lblDogumTarihi.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblDogumTarihi.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;lblDogumTarihi.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="lblHayvanKimlikNo.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="lblHayvanKimlikNo.Font" type="System.Drawing.Font, System.Drawing.Common">
+    <value>Segoe UI Semibold, 12pt, style=Bold</value>
+  </data>
+  <data name="lblHayvanKimlikNo.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>534, 192</value>
+  </data>
+  <data name="lblHayvanKimlikNo.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>107, 21</value>
+  </data>
+  <data name="lblHayvanKimlikNo.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>0</value>
+  </data>
+  <data name="lblHayvanKimlikNo.Text" xml:space="preserve">
+    <value>( * ) Küpe No:</value>
+  </data>
+  <data name="&gt;&gt;lblHayvanKimlikNo.Name" xml:space="preserve">
+    <value>lblHayvanKimlikNo</value>
+  </data>
+  <data name="&gt;&gt;lblHayvanKimlikNo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblHayvanKimlikNo.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;lblHayvanKimlikNo.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="groupBox1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>0, 0</value>
+  </data>
+  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>1273, 1078</value>
+  </data>
+  <data name="groupBox1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>0</value>
+  </data>
+  <data name="groupBox1.Text" xml:space="preserve">
+    <value>Hayvan Kayit Ekranı</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing.Primitives">
+    <value>7, 15</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>1273, 1078</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>HayvanKayit</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>HayvanKayit</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>
